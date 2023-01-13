@@ -3,10 +3,10 @@
 <h3> HyperCasual Game </h3> 
 
 ## Goal
-Make the circle jump and avoid hitting the line!
+Make all the ground P-I-N-K!
 
 ## Controls
-Just click the mouse and jump!
+Drag your mouse!
 
 ## Screenshots
 
