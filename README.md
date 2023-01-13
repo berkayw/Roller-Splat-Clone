@@ -2,22 +2,13 @@
 
 <h3> HyperCasul Game </h3> 
 
-</br > 
-
 ## Goal
 Make all the ground P-I-N-K!
 
-</br > 
-
 ## Controls
-
 Drag your mouse!
 
-</br > 
-
 ## Screenshots
-
-
 ![roller splat ss](https://user-images.githubusercontent.com/72252419/212222935-38098004-3c9b-4a44-b068-062e5dea84ac.png)
 </br > 
 
