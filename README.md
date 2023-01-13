@@ -1,6 +1,6 @@
 # Roller Splat Clone
 
-<h3> HyperCasul Game </h3> 
+<h3> HyperCasual Game </h3> 
 
 ## Goal
 Make all the ground P-I-N-K!
